@@ -43,6 +43,7 @@ body {
 }
 .slide.active{
   flex:40;
+  cursor: zoom-in;
 }
 .slide.active h3{
   opacity: 1;
